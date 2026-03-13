@@ -5,10 +5,10 @@
 This repository presents a collection of laboratory experiments related to digital communication systems and modern radio signal processing. The project investigates several modulation techniques including ASK, FSK, BPSK, and QPSK, as well as Direct Sequence Spread Spectrum (DSSS) and Software-Defined Radio (SDR) concepts. Experimental setups, waveform observations, and signal analysis are documented to illustrate how digital information is transmitted, processed, and recovered in practical communication systems.
 
 ## Table of Contents
-- [Part 1: Carrier-Based Amplitude and Frequency Modulation]()
-- [Part 2: Binary and Quadrature Phase Modulation]()
-- [Part 3: Spread Spectrum Communication Techniques]()
-- [Part 4: Software-Defined Radio and Sub-Nyquist Sampling]()
+- [Part 1: Carrier-Based Amplitude and Frequency Modulation](https://github.com/Justine2323/Digital-Communication-Modulation-and-Software-Defined-Radio-Laboratory?tab=readme-ov-file#part-1-carrier-based-amplitude-and-frequency-modulation)
+- [Part 2: Binary and Quadrature Phase Modulation](https://github.com/Justine2323/Digital-Communication-Modulation-and-Software-Defined-Radio-Laboratory?tab=readme-ov-file#part-2-binary-and-quadrature-phase-modulation)
+- [Part 3: Spread Spectrum Communication Techniques](https://github.com/Justine2323/Digital-Communication-Modulation-and-Software-Defined-Radio-Laboratory?tab=readme-ov-file#part-3-spread-spectrum-communication-techniques)
+- [Part 4: Software-Defined Radio and Sub-Nyquist Sampling](https://github.com/Justine2323/Digital-Communication-Modulation-and-Software-Defined-Radio-Laboratory?tab=readme-ov-file#part-4-software-defined-radio-and-sub-nyquist-sampling)
 
 ---
 
